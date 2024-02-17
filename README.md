@@ -1,23 +1,25 @@
-# Mantine Next.js template
+# ProjectX
 
-This is a template for [Next.js](https://nextjs.org/) app router + [Mantine](https://mantine.dev/).
-If you want to use pages router instead, see [next-pages-template](https://github.com/mantinedev/next-pages-template).
-
-## Features
-
-This template comes with the following features:
+The base project configuration comes with:
 
 - [PostCSS](https://postcss.org/) with [mantine-postcss-preset](https://mantine.dev/styles/postcss-preset)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Storybook](https://storybook.js.org/)
 - [Jest](https://jestjs.io/) setup with [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
 - ESLint setup with [eslint-config-mantine](https://github.com/mantinedev/eslint-config-mantine)
+- Mantine
 
-## npm scripts
+## Installation
+
+- `yarn install` - install all packages
+- `yarn run dev` - start dev server
+
+See Yarn scripts below for additional usage
+
+## Yarn Scripts
 
 ### Build and dev scripts
 
-- `dev` – start dev server
 - `build` – bundle application for production
 - `analyze` – analyzes application bundle with [@next/bundle-analyzer](https://www.npmjs.com/package/@next/bundle-analyzer)
 
