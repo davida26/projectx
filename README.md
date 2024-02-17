@@ -37,3 +37,9 @@ See Yarn scripts below for additional usage
 - `storybook` – starts storybook dev server
 - `storybook:build` – build production storybook bundle to `storybook-static`
 - `prettier:write` – formats all files with Prettier
+
+
+## Jest
+
+- Testing can be executed using the scrpt `yarn run jest ` in CLI
+- Jest VSCode Extension with monorepo project configuration

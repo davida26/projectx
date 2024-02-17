@@ -1,7 +1,7 @@
 import { render, screen } from '@/test-utils';
 import { Welcome } from './Welcome';
 
-describe('Welcome component', () => {
+describe('Welcome components', () => {
   it('has correct Next.js theming section link', () => {
     render(<Welcome />);
     expect(screen.getByText('this guide')).toHaveAttribute(
