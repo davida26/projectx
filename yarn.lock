@@ -2306,7 +2306,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mantine/core@npm:7.5.3":
+"@mantine/core@npm:^7.5.3":
   version: 7.5.3
   resolution: "@mantine/core@npm:7.5.3"
   dependencies:
@@ -2324,7 +2324,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mantine/hooks@npm:7.5.3":
+"@mantine/hooks@npm:^7.5.3":
   version: 7.5.3
   resolution: "@mantine/hooks@npm:7.5.3"
   peerDependencies:
@@ -11343,8 +11343,8 @@ __metadata:
   resolution: "mantine-next-template@workspace:."
   dependencies:
     "@babel/core": "npm:^7.23.2"
-    "@mantine/core": "npm:7.5.3"
-    "@mantine/hooks": "npm:7.5.3"
+    "@mantine/core": "npm:^7.5.3"
+    "@mantine/hooks": "npm:^7.5.3"
     "@next/bundle-analyzer": "npm:^14.0.1"
     "@next/eslint-plugin-next": "npm:^14.0.1"
     "@storybook/addon-essentials": "npm:^7.5.2"

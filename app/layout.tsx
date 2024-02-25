@@ -1,6 +1,7 @@
 import '@mantine/core/styles.css';
 import React from 'react';
 import { MantineProvider, ColorSchemeScript } from '@mantine/core';
+import { useDisclosure } from '@mantine/hooks';
 import { theme } from '../theme';
 import { BasicAppShell } from '@/components/ApplicationContainer';
 
